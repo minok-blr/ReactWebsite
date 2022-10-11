@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.4.0",
+    "react-google-recaptcha-v3": "^1.9.7"
+  }
+}
